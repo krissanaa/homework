@@ -1,0 +1,32 @@
+
+.user{
+    position:fixed;
+    text-align: center;
+    padding-left: 270px;
+    padding-top: 400px;
+    color: aliceblue;
+    font-size: 100px;
+}
+body{
+    background-color: aqua;
+    background-image: url(https://images.unsplash.com/photo-1634420528828-9cd5ee2f56f8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80);
+    
+}
+a{
+    position: relative;
+    background: aqua;
+    color: #fff; 
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 1.5em;
+    letter-spacing: 0.1em;
+    font-weight: 400;
+    padding: 10px 20px; 
+    transition: 0.5s;
+    margin-bottom: 0.005px;
+    top: 700px;
+    left: 630px;
+    
+    
+  }
+
